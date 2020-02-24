@@ -1,0 +1,3 @@
+defmodule Ricorex do
+end
+
